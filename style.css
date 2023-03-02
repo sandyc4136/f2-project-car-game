@@ -43,25 +43,20 @@ body{
     height: 100%;
     overflow: hidden;
     position: absolute;
-    left: 40%;
+    left: 37%;
     margin: auto;
     border-left: 10px dashed yellow;
     border-right: 10px dashed yellow;
 }
 
 .startScreen {
-    position: absolute;
     background-color: red;
-    left: 25%;
-    top: 100px;
-    color: white;
-    z-index: 1;
     text-align: center;
     border: 1px solid red;
     padding: 15px;
     margin: auto;
-    width: 50%;
-    font-family: sans-serif;
+    width: 600px;
     cursor: pointer;
+    color: white;
 }
  
